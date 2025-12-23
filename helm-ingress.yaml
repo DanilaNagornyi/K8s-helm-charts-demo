@@ -6,7 +6,7 @@ metadata:
     name: mongo-express
 spec:
   rules:
-  - host: YOUR_HOST_DNS_NAME
+  - host: mongo-express.139.59.219.50.nip.io
     http:
       paths:
         - path: /
